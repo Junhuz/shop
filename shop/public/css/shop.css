@@ -1,0 +1,143 @@
+.total{
+    border: 1px solid red;
+    width: 100%;
+    height: 100%;
+    overflow:hidden;
+    overflow-y:scroll;
+}
+.header{
+    width: 100%;
+}
+.header-logo{
+    width:28%;
+    height:15%;
+    display: inline-block;
+    vertical-align:top;
+    min-height: 30px;
+}
+.header-links{
+    width: 71%;
+    height:15%;
+    display: inline-block;
+    text-align: center;
+    min-height: 30px;
+    <!--background:url('http://47.94.140.72/img/qUZQf4Uvsu5n7Uoiw6PuXfsFjpjWIlAdDWN59G76.png') no-repeat;-->
+    background-size:100% 100%;
+}
+.header-link{
+    width:30%;
+    background-color: aquamarine;
+    display: inline-block;
+}
+.footer{
+    background-color: silver;
+    width:100%;
+}
+.footer .footer-line {
+    height: 3px;
+    background: #25a851;
+    background: -webkit-linear-gradient(left,#25a851 0,#3ec969);
+    background: linear-gradient(90deg,#25a851 0,#3ec969);
+}
+.footer-links{
+    padding: 15px 20px;
+    width:100%;
+}
+.footer-links ul{
+    -moz-column-count:4;
+    -webkit-column-count:4;
+    column-count:4;
+}
+.footer-statement{
+    width:100%;
+    background-color: bisque;
+    text-align: center;
+}
+
+.content{
+    width:100%;
+    overflow:hidden;
+}
+.shop{
+    padding: 1%;
+    overflow:hidden;
+    background-color: aqua;
+    border:1px solid pink;
+}
+.options{
+    background-color: beige;
+    width: 100%;
+}
+.list-li{
+    font-size: 16px;
+    height:36px;
+    border-bottom:1px solid green;
+}
+.list-option{
+    display: inline-block;
+    background-color:pink;
+    margin-right: 10px;
+}
+.list-title{
+    display: inline-block;
+    background-color:greenyellow;
+    margin-right: 10px;
+}
+.shows{
+    background-color: #ffe7a0;
+    width:100%;
+}
+.show-card{
+    width:30%;
+    min-width: 230px;
+    margin: 1%;
+    display: inline-block;
+    border: 1px solid red;
+    overflow: hidden;
+}
+.text-margin{
+    margin-right: 10px;
+}
+.show-card img{
+    width:100%;
+    height:60%;
+}
+.show-place{
+    width:100%;
+    height:40%;
+    padding: 5%;
+    background-color: lavenderblush;
+    overflow: hidden;
+    font-size: 10px;
+}
+.show-place span:first-child{
+    display: block;
+    width:100%;
+    height:90%;
+    font-size: 14px;
+    background-color: aliceblue;
+    overflow: hidden;
+    margin-bottom: 1%;
+}
+.small-window{
+    padding:16%;
+    background-color: cornflowerblue;
+}
+.trip{
+    font-size: small;
+    color: red;
+}
+.home-default{
+    padding:0 0 10rem 0;
+    border:1px solid red;
+}
+.personal-history{
+    border:1px solid red;
+}
+
+
+
+
+
+
+
